@@ -1,16 +1,27 @@
-## Hi there 👋
+<!-- Profile Header -->
+<h1 align="center">Hi, I'm Adrija Saha 🤝</h1>
+<h3 align="center">Biotech Graduate | Aspiring Data Analyst | Python • SQL • Power BI</h3>
+---
 
-<!--
-**AdrijaSaha-git/AdrijaSaha-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧩 About Me
+I am a Biotechnology graduate transitioning into Data Analytics, with hands-on experience in Python, SQL, Excel, and data visualization tools.  
+I specialize in transforming raw, messy datasets into meaningful insights that support data-driven decisions.  
+My interests lie in healthcare analytics, biotech data, and analytical problem-solving.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚙️ Core Skills
+**Python (Pandas, NumPy, Matplotlib)** | **SQL** | **Excel**  
+**Power BI** | **Tableau** | **Visualization**
+
+---
+
+## 📫 Let's Connect!
+
+-  **Email:** sahaadrija301@gmail.com  
+-  **LinkedIn:** https://www.linkedin.com/in/adrija-saha-288464286/
+-  **GitHub Portfolio:** https://github.com/AdrijaSaha-git
+
+---
+
+🌟 *Thanks for visiting my profile! I’m always open to collaborations, internships, and project opportunities.*  
