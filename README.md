@@ -1,6 +1,7 @@
 <!-- Profile Header -->
 <h1 align="center">Hi, I'm Adrija Saha 🤝</h1>
 <h3 align="center">Biotech Graduate | Aspiring Data Analyst | Python • SQL • Power BI</h3>
+
 ---
 
 ## 🧩 About Me
